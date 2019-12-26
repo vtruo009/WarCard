@@ -6,9 +6,8 @@ War Card is my first exposure to iOS development, and it is a tutorial I followe
 ## Decription
 War Card is a simple card game where player and CPU gets a random card when the deal button is tapped. The respective score increments by one for the card with greater value.
 
-## Gameplay
-
-
+## Demo
+![Demo](
 
 
 ## Future Plan
