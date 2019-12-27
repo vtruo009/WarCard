@@ -12,4 +12,4 @@ When the deal button is tapped, a random card is displayed for player and CPU. T
 * Swift 5.1
 
 ## Future Plan
-As of now, there is no way to win the game. My future plan is to complete the game by implementing some logic to determine a winner and a scene to celebrate the win.
+As of now, there is no way to win the game. My future plan is to complete the game by implementing some logic to determine a winner, a scene to celebrate the win, along with a reset button.
